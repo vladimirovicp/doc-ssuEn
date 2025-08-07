@@ -1,6 +1,6 @@
 # Тип материала Promo
 
-## Секция Programms
+## Programms
 
 ### card v3 (paragraphs)
 
@@ -30,4 +30,5 @@
 * card v2 number (field_card_v2_number | Text (plain))
 * card v2 text big (field_card_v2_text_big | Text (formatted, long))
 * card v2 text small (field_card_v2_text_small | Text (plain, long))
+
 

@@ -1,5 +1,10 @@
 const doc = [
-    { text: 'Promo', link: '/doc/promo/'},
+    { 
+        text: 'Promo', link: '/doc/promo/',
+    },
+    {
+        text: 'News', link: '/doc/news/'
+    }
 ];
 
 
